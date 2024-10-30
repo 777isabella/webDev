@@ -1,0 +1,124 @@
+﻿
+/*style body for home/index*/
+body.home {
+    font-family: 'Times New Roman';
+    background-color: #F9DCE8;
+}
+
+    body.home button.button {
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    body.home .button1 {
+        background-color: #95092F;
+        color: black;
+        border: 2px solid #95092F;
+    }
+
+        body.home .button1:hover {
+            background-color: #F9DCE8;
+            color: white;
+        }
+
+    body.home .button2 {
+        background-color: #95092F;
+        color: black;
+        border: 2px solid #95092F;
+    }
+
+        body.home .button2:hover {
+            background-color: #F9DCE8;
+            color: white;
+        }
+
+/* Styles for body.videoGames section */
+body.videoGames {
+    font-family: 'Times New Roman';
+    background-color: #D5F5FF;
+}
+
+    body.videoGames button.button {
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    body.videoGames .button1 {
+        background-color: #060270;
+        color: black;
+        border: 2px solid #aa0441;
+    }
+
+        body.videoGames .button1:hover {
+            background-color: #D5F5FF;
+            color: white;
+        }
+
+    body.videoGames .button2 {
+        background-color: #060270;
+        color: black;
+        border: 2px solid #aa0441;
+    }
+
+        body.videoGames .button2:hover {
+            background-color: #D5F5FF;
+            color: white;
+        }
+
+
+/*body for books style*/
+body.books {
+    font-family: 'Times New Roman';
+    background-color: #F9DCE8;
+}
+
+    body.books button.button {
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    body.books .button1 {
+        background-color: #95092F;
+        color: black;
+        border: 2px solid #aa0441;
+    }
+
+        body.books .button1:hover {
+            background-color: #F9DCE8;
+            color: white;
+        }
+
+    body.books .button2 {
+        background-color: #95092F;
+        color: black;
+        border: 2px solid #aa0441;
+    }
+
+        body.books .button2:hover {
+            background-color: #F9DCE8;
+            color: white;
+        }
